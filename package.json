@@ -1,0 +1,12 @@
+{
+  "name": "enigma-script",
+  "version": "0.1.0",
+  "description": "Script that emules the famous Enigma Machine developed during the WW2",
+  "main": "EnigmaScript.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francisco Prato",
+  "license": "ISC"
+}
